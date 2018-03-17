@@ -1,0 +1,18 @@
+{
+  "name": "calc-distance-matrix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/maps": "^0.4.5",
+    "koa": "^2.5.0",
+    "koa-better-body": "^3.0.4",
+    "koa-better-router": "^2.1.1",
+    "uuid": "^3.2.1"
+  }
+}
